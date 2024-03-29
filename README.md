@@ -1,1 +1,1 @@
-# eks-by-terraformDeploying EKS Cluster using Terraform and Jenkins
+# Deploying EKS Cluster using Terraform and Jenkins
